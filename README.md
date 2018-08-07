@@ -1,5 +1,5 @@
 # LittleWeebRules
-Here are some hard coded rules for anime searching used by https://github.com/EldinZenderink/LittleWeeb.
+Here are some hard coded rules for anime searching used by https://github.com/littleweeb/LittleWeeb.
 
 It's somewhat similar to https://github.com/erengy/anime-relations/, but it will cover anime's such as Steins;Gate & Steins;Gate 0, where it's technically impossible to differentiate between those two, while keeping in mind that some anime's are released with slightly different episode names (or titles within episode names) where there is never a 100% exact title match using titles used by anime databases such as kitsu, mal, anilist, etc. 
 
