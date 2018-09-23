@@ -1,4 +1,4 @@
-~
+ ~
  # Steins;Gate 0
  * 10788
  + ` 0 `
@@ -12,10 +12,16 @@
  - `Tokyo`, `Ghoul
  $
  
-  ~
+ ~
  # Monster
  * 10
  + 
  - `Monster`
  $ `hunter`,`strike`,`naki`,`hatsukoi`,`farm`,`rancher`,`musume`,`dragon,`powerpuff`,`pocket`,`interviews`,`my little`,`master nina`,`amelia hutchins`,`Victoria Schwab`,`Yu-Gi-Oh`
-© 2018 GitHub, Inc.
+ 
+ ~
+ # Magi: The Kingdom of Magic
+ * 7696
+ + `Magi`
+ - `Magi`
+ $ `Kaito`,`Sinbad`,`Magic-Kyun`,`Magical`,`Knight`,`Users`,`Magikano`
