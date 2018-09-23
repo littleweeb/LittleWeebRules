@@ -25,3 +25,10 @@
  + `Magi`,`S2`,`Kingdom`
  - `Magi`
  $ `Kaito`,`Sinbad`,`Magic-Kyun`,`Magical`,`Knight`,`Users`,`Magikano`,`Magica`,`Labyrinth`,`Magi - `
+
+ ~
+ # Magi: Sinbad no Bouken
+ * 11431
+ + `Magi`, `Sinbad`
+ - `Magi`
+ $ `Kid`, `Kaito`, `Kyun`, `Maho`, `Magical`, `Knight`, `Magic`, `Magikano`, `Girl` 
