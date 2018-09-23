@@ -22,6 +22,6 @@
  ~
  # Magi: The Kingdom of Magic
  * 7696
- + `Magi`
+ + `Magi`,`S2`,`Kingdom`
  - `Magi`
  $ `Kaito`,`Sinbad`,`Magic-Kyun`,`Magical`,`Knight`,`Users`,`Magikano`,`Magica`,`Labyrinth`
