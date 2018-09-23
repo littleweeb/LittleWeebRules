@@ -31,4 +31,4 @@
  * 11431
  + `Magi`,`Sinbad`
  - `Magi`
- $ `Kid`,`Kaito`,`Kyun`,`Maho`,`Magical`,`Knight`,`Magic`,`Magikano`,`Girl`,`OVA`,`S2`,`Kingdom`,`Kumagiri-san`, `[HorribleSubs] Magi -` 
+ $ `Kid`,`Kaito`,`Kyun`,`Maho`,`Magical`,`Knight`,`Magic`,`Magikano`,`Girl`,`OVA`,`S2`,`Kingdom`,`Kumagiri-san`,`[HorribleSubs] Magi -` 
