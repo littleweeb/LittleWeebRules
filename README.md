@@ -21,19 +21,20 @@ You can contribute to this list using the following rules:
 
         ~
         # {canonicalTitle}
-        * {id}
-        + `{must have identicator within possible episode titles}`,`{another indenticator}`
-        - `{part (word) of episode title possibly used with other versions of the anime}`,`{another part}`
-        $ `{part of title it must not contain}`,`{another part}`
+        * {kitsu io's anime id}
+        +  `Only file names that has this word/sentence in it will be shown`
+        - `Applies to file names with atleast this in it, but this can possibly also identify episodes from another season/anime`,`another word/sentence`
+        $ `This field is for words that a filename must not contain, if the filename contains one of these words, it will not be shown`
     
 7. For example:
 
         ~
-        # Steins;Gate 0
-        * 10788
-        + `0`
+        # Steins;Gate 0 
+        * 10788 
+        + `0` 
         - `Steins `, `Gate`
-        $
+        $ 
+        
     
 This means that in case littleweeb finds an episode for `Steins;Gate 0` with the title `[HorribleSubs] Steins Gate 0 - 01 [1080p].mkv`, it will show this episode because it contains `0`.
 
