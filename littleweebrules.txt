@@ -24,4 +24,4 @@
  * 7696
  + `Magi`
  - `Magi`
- $ `Kaito`,`Sinbad`,`Magic-Kyun`,`Magical`,`Knight`,`Users`,`Magikano`
+ $ `Kaito`,`Sinbad`,`Magic-Kyun`,`Magical`,`Knight`,`Users`,`Magikano`,`Magica`
