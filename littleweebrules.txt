@@ -32,3 +32,10 @@
  + `Magi`,`Sinbad`
  - `Magi`
  $ `Kid`,`Kaito`,`Kyun`,`Maho`,`Magical`,`Knight`,`Magic`,`Magikano`,`Girl`,`OVA`,`S2`,`Kingdom`,`Kumagiri-san`,`[HorribleSubs] Magi -` 
+
+ ~
+ # Kono Subarashii Sekai ni Shukufuku wo!
+ * 10941
+ + `Kono`,`Subarashii`
+ - `Subarashii`
+ $ `Kono Subarashii Sekai ni Shukufuku wo! 2`,`S2`, 
