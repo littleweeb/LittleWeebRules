@@ -50,8 +50,8 @@
  ~
  # Log Horizon 2nd Season
  * 8313
- + `Log`,`Horizon`,`2 -`,`_2_-_`
- - `Log Horizon`,`Season_2`,`Season 2`,`2 -`,`_2_-_`
+ + `2 -`,`_2_-_`
+ - `Log Horizon`
  $ `n -`,`n_Ep`
  
 
