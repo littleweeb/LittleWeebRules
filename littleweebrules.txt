@@ -54,11 +54,11 @@
  - `Log Horizon`
  $ `n -`,`n_Ep`
  
-  ~
+ ~
  # Satsuriku no Tenshi
  * 13715
- + `Satsuriku no Tenshi`,`Angels of Death`
- - 
+ + 
+ - `Satsuriku no Tenshi`,`Angels of Death`
  $ 
  
 
