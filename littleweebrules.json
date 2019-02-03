@@ -1,43 +1,44 @@
-{
-    "rules": [
-        {
-            "title" : "Steins;Gate 0",
-            "id" : "10788",
-            "must_contain" : [" 0"],
-            "cannot_contain" : [""]
-        },
-        {
-            "title" : "Tokyo Ghoul:re",
-            "id" : "13929",
-            "must_contain" : [":re"],
-            "cannot_contain" : [""]
-        },
-        {
-            "title" : "Monster",
-            "id" : "10",
-            "must_contain" : ["monster"],
-            "cannot_contain" : ["hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"]
-        },
-        {
-            "title" : "Magi: The Kingdom of Magic",
-            "id" : "7696",
-            "must_contain" : ["S2", "Kingdom"],
-            "cannot_contain" : ["Kaito","Sinbad","Magic-Kyun","Magical","Knight","Users","Magikano","Magica","Labyrinth","Magi - "]
-        },{
-            "title" : "Magi: Sinbad no Bouken",
-            "id" : "11431",
-            "must_contain" : ["Sinbad"],
-            "cannot_contain" : ["Kid","Kaito","Kyun","Maho","Magical","Knight","Magic","Magikano","Girl","OVA","S2","Kingdom","Kumagiri-san","[HorribleSubs] Magi -"]
-        },{
-            "title" : "Kono Subarashii Sekai ni Shukufuku wo!",
-            "id" : "10941",
-            "must_contain" : [""],
-            "cannot_contain" : ["! 2","! S2"]
-        },{
-            "title" : "Kono Subarashii Sekai ni Shukufuku wo! 2",
-            "id" : "10941",
-            "must_contain" : [""],
-            "cannot_contain" : ["! -"]
-        }
-    ] 
+{   
+    "10788" : {
+        "title" : "Steins;Gate 0",
+        "id" : "10788",
+        "must_contain" : [" 0"],
+        "cannot_contain" : [""]
+    },
+    "13929" : {
+        "title" : "Tokyo Ghoul:re",
+        "id" : "13929",
+        "must_contain" : [":re"],
+        "cannot_contain" : [""]
+    },
+    "10": {
+        "title" : "Monster",
+        "id" : "10",
+        "must_contain" : ["monster"],
+        "cannot_contain" : ["hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"]
+    },
+    "7696" : {
+        "title" : "Magi: The Kingdom of Magic",
+        "id" : "7696",
+        "must_contain" : ["S2", "Kingdom"],
+        "cannot_contain" : ["Kaito","Sinbad","Magic-Kyun","Magical","Knight","Users","Magikano","Magica","Labyrinth","Magi - "]
+    },
+    "11431" : {
+        "title" : "Magi: Sinbad no Bouken",
+        "id" : "11431",
+        "must_contain" : ["Sinbad"],
+        "cannot_contain" : ["Kid","Kaito","Kyun","Maho","Magical","Knight","Magic","Magikano","Girl","OVA","S2","Kingdom","Kumagiri-san","[HorribleSubs] Magi -"]
+    },
+    "10941" : {
+        "title" : "Kono Subarashii Sekai ni Shukufuku wo!",
+        "id" : "10941",
+        "must_contain" : [""],
+        "cannot_contain" : ["! 2","! S2"]
+    },
+    "11937": {
+        "title" : "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "id" : "11937",
+        "must_contain" : [""],
+        "cannot_contain" : ["! -"]
+    }
 }
