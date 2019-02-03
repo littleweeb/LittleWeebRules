@@ -15,7 +15,7 @@
         "title" : "Monster",
         "id" : "10",
         "must_contain" : ["monster"],
-        "cannot_contain" : ["hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"]
+        "cannot_contain" : ["mario", "hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"]
     },
     "7696" : {
         "title" : "Magi: The Kingdom of Magic",
