@@ -2,7 +2,7 @@
     "10788" : {
         "title" : "Steins;Gate 0",
         "id" : "10788",
-        "must_contain" : [" 0"],
+        "must_contain" : [" 0 "],
         "cannot_contain" : [""]
     },
     "13929" : {
