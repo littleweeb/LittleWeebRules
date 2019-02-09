@@ -8,7 +8,7 @@
     "13929" : {
         "title" : "Tokyo Ghoul:re",
         "id" : "13929",
-        "must_contain" : [":re"],
+        "must_contain" : ["re"],
         "cannot_contain" : [""]
     },
     "10": {
