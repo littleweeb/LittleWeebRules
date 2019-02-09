@@ -11,6 +11,12 @@
         "must_contain" : ["re"],
         "cannot_contain" : [""]
     },
+    "41359" : {
+        "title" : "Tokyo Ghoul:re 2",
+        "id" : "41359",
+        "must_contain" : ["re"],
+        "cannot_contain" : [""]
+    },
     "10": {
         "title" : "Monster",
         "id" : "10",
