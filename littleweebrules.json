@@ -52,5 +52,11 @@
         "id" : "14172",
         "must_contain" : ["XX"],
         "cannot_contain" : []
+    },    
+    "13893": {
+        "title" : "Sword Art Online: Alicization",
+        "id" : "13893",
+        "must_contain" : ["Alicization", "III"],
+        "cannot_contain" : []
     }
 }
