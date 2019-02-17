@@ -46,5 +46,11 @@
         "id" : "11937",
         "must_contain" : [""],
         "cannot_contain" : ["! -"]
+    },
+    "14172": {
+        "title" : "Kakegurui××",
+        "id" : "14172",
+        "must_contain" : ["XX"],
+        "cannot_contain" : []
     }
 }
