@@ -58,5 +58,11 @@
         "id" : "13893",
         "must_contain" : ["Alicization", "III"],
         "cannot_contain" : []
+    },        
+    "41410": {
+        "title" : "JoJo's Bizarre Adventure: Golden Wind",
+        "id" : "41410",
+        "must_contain" : ["Golden Wind"],
+        "cannot_contain" : []
     }
 }
