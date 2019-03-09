@@ -3,66 +3,84 @@
         "title" : "Steins;Gate 0",
         "id" : "10788",
         "must_contain" : [" 0 "],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
     },
     "13929" : {
         "title" : "Tokyo Ghoul:re",
         "id" : "13929",
         "must_contain" : ["re"],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
     },
     "41359" : {
         "title" : "Tokyo Ghoul:re 2",
         "id" : "41359",
         "must_contain" : ["re"],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
     },
     "10": {
         "title" : "Monster",
         "id" : "10",
         "must_contain" : [""],
-        "cannot_contain" : ["Batman","GeGeGe", "Nobunagun", "Nadia","014 -","jackson", "baki", "unbound", "jayce", "carolyn", "mario", "hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"]
+        "cannot_contain" : ["Batman","GeGeGe", "Nobunagun", "Nadia","014 -","jackson", "baki", "unbound", "jayce", "carolyn", "mario", "hunter", "strike", "naki", "hatsukoi", "farm", "rancher", "musume", "dragon", "powerpuff", "pocket", "interviews", "my little", "master nina", "amelia hutchins", "victoria schwab", "yu-gi-oh"],
+        "custom_search" : [""]
     },
     "7696" : {
         "title" : "Magi: The Kingdom of Magic",
         "id" : "7696",
         "must_contain" : ["S2", "Kingdom"],
-        "cannot_contain" : ["Kaito","Sinbad","Magic-Kyun","Magical","Knight","Users","Magikano","Magica","Labyrinth","Magi - "]
+        "cannot_contain" : ["Kaito","Sinbad","Magic-Kyun","Magical","Knight","Users","Magikano","Magica","Labyrinth","Magi - "],
+        "custom_search" : [""]
     },
     "11431" : {
         "title" : "Magi: Sinbad no Bouken",
         "id" : "11431",
         "must_contain" : ["Sinbad"],
-        "cannot_contain" : ["Kid","Kaito","Kyun","Maho","Magical","Knight","Magic","Magikano","Girl","OVA","S2","Kingdom","Kumagiri-san","[HorribleSubs] Magi -"]
+        "cannot_contain" : ["Kid","Kaito","Kyun","Maho","Magical","Knight","Magic","Magikano","Girl","OVA","S2","Kingdom","Kumagiri-san","[HorribleSubs] Magi -"],
+        "custom_search" : [""]
     },
     "10941" : {
         "title" : "Kono Subarashii Sekai ni Shukufuku wo!",
         "id" : "10941",
         "must_contain" : [""],
-        "cannot_contain" : ["! 2","! S2"]
+        "cannot_contain" : ["! 2","! S2"],
+        "custom_search" : [""]
     },
     "11937": {
         "title" : "Kono Subarashii Sekai ni Shukufuku wo! 2",
         "id" : "11937",
         "must_contain" : [""],
-        "cannot_contain" : ["! -"]
+        "cannot_contain" : ["! -"],
+        "custom_search" : [""]
     },
     "14172": {
         "title" : "Kakegurui××",
         "id" : "14172",
         "must_contain" : ["XX"],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
     },    
     "13893": {
         "title" : "Sword Art Online: Alicization",
         "id" : "13893",
         "must_contain" : ["Alicization", "III"],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
     },        
     "41410": {
         "title" : "JoJo's Bizarre Adventure: Golden Wind",
         "id" : "41410",
         "must_contain" : ["Golden Wind"],
-        "cannot_contain" : [""]
+        "cannot_contain" : [""],
+        "custom_search" : [""]
+    },        
+    "41966": {
+        "title" : "Gotoubun no Hanayome",
+        "id" : "41966",
+        "must_contain" : [""],
+        "cannot_contain" : [""],
+        "custom_search" : ["toubun no Hanayome"]
     }
 }
